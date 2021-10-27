@@ -13,7 +13,7 @@ Both Regression and Classification can be applied in this case
 - Random Forest
 - Unsupervised Learning(Clustering) //For comparing purpose
 
-## Expected result and result of each model
+## Expected result and Actual result of each model
 ![image](https://user-images.githubusercontent.com/40317107/139098832-c643df4f-8d8a-4351-b349-1313cff5f9fc.png)
 ![image](https://user-images.githubusercontent.com/40317107/139098884-3aeb8f52-8b65-4ea8-90a7-8a1aba6b10dd.png)
 ![image](https://user-images.githubusercontent.com/40317107/139098985-2868ce65-e144-414d-9b50-64fcdc32ab1e.png)
