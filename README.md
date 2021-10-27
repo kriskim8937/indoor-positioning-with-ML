@@ -6,9 +6,11 @@ The objective of this project is to predict the x,y coordination of customers by
 
 ## Used ML Methods
 Both Regression and Classification can be applied in this case
-- Regression use x,y coordination as target
+
+Regression use x,y coordination as target
 - MLP, XGboost(Multi ouput regression)
-- Classification use location_coded as target
+
+Classification use location_coded as target
 - XGBoost
 - Random Forest
 - Unsupervised Learning(Clustering) //For comparing purpose
@@ -17,7 +19,6 @@ Both Regression and Classification can be applied in this case
 ![image](https://user-images.githubusercontent.com/40317107/139098832-c643df4f-8d8a-4351-b349-1313cff5f9fc.png)
 ![image](https://user-images.githubusercontent.com/40317107/139098884-3aeb8f52-8b65-4ea8-90a7-8a1aba6b10dd.png)
 ![image](https://user-images.githubusercontent.com/40317107/139098985-2868ce65-e144-414d-9b50-64fcdc32ab1e.png)
-
 ## Step 1: Load the dataset
 ![image](https://user-images.githubusercontent.com/40317107/139099709-f9a63f7b-3cb2-4117-8b10-446a938f89fc.png)
 ## Step 2: Preprocess the data
